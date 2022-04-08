@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.exe
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.deps.json
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.json
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfo.cs
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\User\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.genruntimeconfig.cache
